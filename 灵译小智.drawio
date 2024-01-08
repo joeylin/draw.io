@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2024-01-08T05:28:25.318Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="eXPw001cE61InXt5kOTZ" version="22.1.17" type="github">
+  <diagram name="第 1 页" id="FHXODNkHvTc_4H3JobCJ">
+    <mxGraphModel dx="1310" dy="647" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w1WUd0iOsJasJtRai7kW-1" value="工作台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="278.5" y="185" width="102" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="w1WUd0iOsJasJtRai7kW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="w1WUd0iOsJasJtRai7kW-2" target="w1WUd0iOsJasJtRai7kW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w1WUd0iOsJasJtRai7kW-2" value="telegram" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207" y="87" width="69" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="w1WUd0iOsJasJtRai7kW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w1WUd0iOsJasJtRai7kW-3" target="w1WUd0iOsJasJtRai7kW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w1WUd0iOsJasJtRai7kW-3" value="discord" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="87" width="69" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="w1WUd0iOsJasJtRai7kW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="w1WUd0iOsJasJtRai7kW-4" target="w1WUd0iOsJasJtRai7kW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w1WUd0iOsJasJtRai7kW-4" value="whatsapp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="87" width="69" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="w1WUd0iOsJasJtRai7kW-8" value="群管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207" y="285" width="69" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="w1WUd0iOsJasJtRai7kW-9" value="文本翻译" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="297" y="285" width="69" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="w1WUd0iOsJasJtRai7kW-10" value="自动回复" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387" y="285" width="69" height="38" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
