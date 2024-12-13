@@ -94,6 +94,39 @@
         <mxCell id="R4zDQmTQU1hdGrHyziUh-34" value="声音克隆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="316" y="825" width="147" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="R4zDQmTQU1hdGrHyziUh-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147" y="106" width="574" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zDQmTQU1hdGrHyziUh-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4zDQmTQU1hdGrHyziUh-37" target="R4zDQmTQU1hdGrHyziUh-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zDQmTQU1hdGrHyziUh-37" value="页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="947" width="64" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zDQmTQU1hdGrHyziUh-38" value="登录页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="317" y="947" width="64" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zDQmTQU1hdGrHyziUh-40" value="注册页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="947" width="64" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zDQmTQU1hdGrHyziUh-41" value="统计数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="547" y="180" width="65" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zDQmTQU1hdGrHyziUh-42" value="或者？统计数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="145" y="304" width="97" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zDQmTQU1hdGrHyziUh-43" value="用户个人页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="473" y="947" width="64" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zDQmTQU1hdGrHyziUh-44" value="控制台配置页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="994" width="86" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zDQmTQU1hdGrHyziUh-45" value="语音demo页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="1041" width="86" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zDQmTQU1hdGrHyziUh-46" value="产品首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="1088" width="86" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
