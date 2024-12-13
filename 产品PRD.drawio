@@ -124,7 +124,7 @@
         <mxCell id="R4zDQmTQU1hdGrHyziUh-45" value="语音demo页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="316" y="1041" width="86" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="R4zDQmTQU1hdGrHyziUh-46" value="产品首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R4zDQmTQU1hdGrHyziUh-46" value="产品介绍页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="316" y="1088" width="86" height="31" as="geometry" />
         </mxCell>
         <mxCell id="R4zDQmTQU1hdGrHyziUh-47" value="可以试听声音" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
