@@ -94,7 +94,7 @@
         <mxCell id="R4zDQmTQU1hdGrHyziUh-34" value="声音克隆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="316" y="825" width="147" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="R4zDQmTQU1hdGrHyziUh-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R4zDQmTQU1hdGrHyziUh-36" value="导航栏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="147" y="106" width="574" height="27" as="geometry" />
         </mxCell>
         <mxCell id="R4zDQmTQU1hdGrHyziUh-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4zDQmTQU1hdGrHyziUh-37" target="R4zDQmTQU1hdGrHyziUh-38">
